@@ -10,5 +10,6 @@ fun main(){
 
     println(lucas.nome)
     println(lucas.cpf)
+    println(lucas.nome)
 
 }
